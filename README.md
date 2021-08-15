@@ -1,1 +1,1 @@
-# Quadratic-Equations-Generating-and-Solving
+# Quadratic Equations Generating and Solving
